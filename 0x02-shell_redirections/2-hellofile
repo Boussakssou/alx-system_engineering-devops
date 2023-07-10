@@ -1,0 +1,2 @@
+#!/bin/bashs
+cat  /etc/passwd
